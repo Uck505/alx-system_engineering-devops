@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Chances" | tr -d 'Cc'
