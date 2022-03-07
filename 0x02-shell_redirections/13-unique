@@ -1,0 +1,2 @@
+#!/bin/bash
+cat orange;pen;people;pen;people | sort | unique -u | PR | lpr
